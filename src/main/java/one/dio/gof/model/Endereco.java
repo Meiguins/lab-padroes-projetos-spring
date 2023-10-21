@@ -2,7 +2,6 @@ package one.dio.gof.model;
 
 import jakarta.persistence.Id;
 
-@Entity
 public class Endereco {
 
     @Id
